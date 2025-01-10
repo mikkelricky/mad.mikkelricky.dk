@@ -20,8 +20,8 @@ tags = ['lever']
 3. Fyld i folieforme – ikke helt til kanten.
 4. Bag ved 200°C i ca. 45 min.
 
-De ubagte leverpostejer kan fryses. Og når man sætter [rugbrødet](../surdejsrugbrod/index.html) til at hæve kan man hive
-en leverpostej ud af fryseren og bage brød og postej i én omgang som beskrevet i
-[rugbrødsopskriften](../surdejsrugbrod/index.html).
+De ubagte leverpostejer kan fryses. Og når man sætter [rugbrødet]({{< relref "surdejsrugbrod" >}}) til at hæve kan man
+hive en leverpostej ud af fryseren og bage brød og postej i én omgang som beskrevet i [rugbrødsopskriften]({{< relref
+"surdejsrugbrod" >}}).
 
 † Kan købes på frost i velassorterede supermarkeder.

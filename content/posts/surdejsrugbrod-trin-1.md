@@ -5,7 +5,7 @@ categories = ['Brød']
 tags = ['rugbrød', 'surdej']
 +++
 
-- 50 g moden surdej (se [indledende knæbøjninger](../surdejsrugbrod-indledende-knaebojninger/index.html))
+- 50 g moden surdej (se [indledende knæbøjninger]({{< relref "surdejsrugbrod-indledende-knaebojninger" >}}))
 - 50 g rugmel
 - 50 g vand
 

@@ -15,4 +15,4 @@ Smelt smørret og rør det i den ristede rugbrøds- og sukkerblanding.
 
 Kom det varme fyld i æggebægre og pres det sammen. Vend rugbrødstoppene ud på en tallerken og lad dem køle af.
 
-Server rugbrødstoppene som fyld i [koldskål](../koldskal/index.html).
+Server rugbrødstoppene som fyld i [koldskål]({{< relref "koldskal" >}}).

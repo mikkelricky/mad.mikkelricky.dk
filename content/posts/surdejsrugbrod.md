@@ -5,7 +5,7 @@ categories = ['Brød']
 tags = ['rugbrød', 'surdej']
 +++
 
-- 1 klat surdej (fra sidste gang eller [frisklavet](../surdejsrugbrod-trin-1/index.html))
+- 1 klat surdej (fra sidste gang eller [frisklavet]({{< relref "surdejsrugbrod-trin-1" >}}))
 - 1 kg lunkent vand
 - 27 g salt
 - 300 g skårne rugkerner
@@ -21,8 +21,8 @@ Opskriften passer til en rugbrødsform på ca. 10 cm × 10 cm × 30 cm.
 Put surdej i en skål og hæld vand på. Lad det stå lidt eller rør evt. surdejen ud i vandet.
 
 Bland resten af ingredienserne i og ælt det hele sammen i en røremaskine i 10 min. på lav hastighed. **Tag en klat
-surdej fra** til [næste gang](index.html). Put dejen i en rugbrødsform, dæk med husholdningsfilm og lade dejen hygge sig
-på køkkenbordet en halv dags tid.
+surdej fra** til [næste gang]({{< relref "surdejsrugbrod" >}}). Put dejen i en rugbrødsform, dæk med husholdningsfilm og
+lade dejen hygge sig på køkkenbordet en halv dags tid.
 
 Fjern film, sæt i kold ovn, tænd ovnen på 180 °C (ikke varmluft) og bag i 90 minutter. Vend ud på en rist og lad køle
 af.

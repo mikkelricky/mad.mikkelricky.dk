@@ -13,4 +13,4 @@ tags = ['æg', 'kærnemælk']
 
 1. Bland det hele sammen og rør rundt indtil sukkeret er opløst
 2. Lad hvile i køleskab i en halv times tid
-3. Spis, fx med [rugbrødstoppe](../rugbrodstoppe/index.html) i.
+3. Spis, fx med [rugbrødstoppe]({{< relref "rugbrodstoppe" >}}).

@@ -14,4 +14,4 @@ tags = []
 
 Pisk alle ingredienserne sammen i en skål og lad dejen hvile i en halv times tid.
 
-Smager godt sammen med [Littes is](../littes-is/index.html).
+Smager godt sammen med [Littes is]({{< relref "littes-is" >}}).
