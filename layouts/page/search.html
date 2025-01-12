@@ -38,8 +38,16 @@
         {{ i18n "Searching …" }}
       </div>
 
+      <template id="search-no-query-template">
+        <p>{{ i18n "Seek and you shall find …" }}</p>
+      </template>
+
       <template id="search-results-empty-template">
         <p>{{ i18n "No results found for {{ .query }}." (dict "query" "<span class='query'></span>") | safeHTML }}</p>
+      </template>
+
+      <template id="search-results-info-template">
+        <p>{{ i18n "Results for {{ .query }}." (dict "query" "<span class='query'></span>") | safeHTML }}</p>
       </template>
 
       <template id="search-results-template">
@@ -86,19 +94,23 @@
                 const container = document.querySelector(".search-results");
                 container.replaceChildren()
                 if (0 === data.length) {
-                  const template = document.querySelector("#search-results-empty-template").content;
-                  template.querySelector('span').textContent = query
-                  container.appendChild(template)
+                  const info = document.querySelector("#search-results-empty-template").content;
+                  info.querySelector('span').textContent = query
+                  container.appendChild(info)
                   document.getElementById('search-tips').hidden = false
                 } else {
                   const wrapper = document.querySelector("#search-results-template").content;
+                  const list = wrapper.firstElementChild;
+                  const info = document.querySelector("#search-results-info-template").content;
+                  info.querySelector('span').textContent = query
+                  container.appendChild(info)
                   const template = document.querySelector("#search-result-template");
                   for (const result of data) {
                     const item = template.content.cloneNode(true);
                     item.querySelector('a').href = result.url
                     item.querySelector('h2').innerHTML = result.meta.title
                     item.querySelector('.excerpt').innerHTML = result.excerpt
-                    wrapper.appendChild(item)
+                    list.appendChild(item)
                   }
 
                   container.appendChild(wrapper)
@@ -106,7 +118,10 @@
               }
             })
         } else {
-          document.getElementById('search').innerHTML = '{{ i18n "Seek and you shall find …" }}'
+          const container = document.querySelector(".search-results");
+          container.replaceChildren()
+          const info = document.querySelector("#search-no-query-template").content;
+          container.appendChild(info)
           document.getElementById('search-tips').hidden = false
         }
       </script>

@@ -4,3 +4,4 @@
 "Try searching for " = "Prøv at søge på "
 " or " = " eller "
 "No results found for {{ .query }}." = "Ingen resultater fundet for {{ .query }}."
+"Results for {{ .query }}." = "Resultater for {{ .query }}."
