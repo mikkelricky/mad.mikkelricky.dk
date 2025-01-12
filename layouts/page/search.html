@@ -12,28 +12,6 @@
         {{- .Title -}}
       </h1>
 
-      {{/* https://pagefind.app/docs/ui/ */}}
-      {{/*
-      <link href="{{ relURL "pagefind/pagefind-ui.css" }}" rel="stylesheet">
-      <script src="{{ relURL "pagefind/pagefind-ui.js" }}"></script>
-
-      <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-
-          const params = new URLSearchParams(window.location.search)
-          const query = params.get('s')
-          if (query) {
-            document.getElementById('search').innerHTML = ''
-            const search = new PagefindUI({ element: "#search", showSubResults: !true })
-            search.triggerSearch(query)
-          } else {
-            document.getElementById('search').innerHTML = '{{ i18n "Seek and you shall find …" }}'
-            document.getElementById('search-tips').hidden = false
-          }
-        })
-      </script>
-      */}}
-
       <div class="search-results">
         {{ i18n "Searching …" }}
       </div>
@@ -86,7 +64,7 @@
         const query = new URLSearchParams(window.location.search).get('s')
         if (query) {
           // https://pagefind.app/docs/api/
-          import("/pagefind/pagefind.js")
+          import({{ relURL "pagefind/pagefind.js" }})
             .then(pagefind => pagefind.search(query))
             .then(search => Promise.all(search.results.map(r => r.data())))
             .then(data => {
@@ -125,24 +103,6 @@
           document.getElementById('search-tips').hidden = false
         }
       </script>
-
-{{/*
-      <script>
-        (async() => {
-          const query = new URLSearchParams(window.location.search).get('s')
-
-          // https://pagefind.app/docs/api/
-          const pagefind = await import("/pagefind/pagefind.js");
-          const search = await pagefind.search(query);
-          console.debug({search})
-          if (search.results.length > 0) {
-            const results = await Promise.all(search.results.map(r => r.data()));
-            // const oneResult = await search.results[0].data();
-            console.debug({results})
-          }
-        })();
-      </script>
-*/}}
 
   </article>
 {{ end }}
