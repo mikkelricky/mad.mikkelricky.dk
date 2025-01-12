@@ -21,15 +21,13 @@
         </ul>
       {{ end }}
 
-      <!-- https://pagefind.app/docs/ -->
-      <link href="{{ relURL "pagefind/pagefind-ui.css" }}" rel="stylesheet">
-      <script src="{{ relURL "pagefind/pagefind-ui.js" }}"></script>
-      <div id="search"></div>
-      <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-          new PagefindUI({ element: "#search", showSubResults: true });
-        });
-      </script>
+      <form action="{{ relURL "/search" }}">
+        <input id="search-input" type="search" name="s" placeholder="{{ i18n "Search" }}"/>
+        <script>
+          const params = new URLSearchParams(window.location.search)
+          document.getElementById('search-input').value = params.get('s')
+        </script>
+      </form>
 
       {{ partialCached "social/follow.html" . }}
     </div>

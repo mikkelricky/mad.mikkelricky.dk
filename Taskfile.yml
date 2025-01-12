@@ -10,7 +10,9 @@ tasks:
     cmds:
       - hugo
       - npx --yes pagefind --site public
-      - npx http-server -c5 --port 8787 public
+      # Clean up
+      - mv public/pagefind . && rm -fr public/* && mv ./pagefind public
+      - hugo server
 
   coding-standards:apply:
     desc: "Apply coding standards"
@@ -42,12 +44,14 @@ tasks:
   coding-standards:markdown:apply:
     desc: "Apply coding standards for Markdown"
     cmds:
-      - docker pull --quiet peterdavehello/markdownlint
       - docker run --rm --volume "$PWD:/md" peterdavehello/markdownlint markdownlint '**/*.md' --fix
 
   coding-standards:markdown:check:
     desc: "Apply and check coding standards for Markdown"
     cmds:
       - task: coding-standards:markdown:apply
-      - docker pull --quiet peterdavehello/markdownlint
       - docker run --rm --volume "$PWD:/md" peterdavehello/markdownlint markdownlint '**/*.md'
+
+  docker-pull:
+    cmds:
+      - docker pull --quiet peterdavehello/markdownlint

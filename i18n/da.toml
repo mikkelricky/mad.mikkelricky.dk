@@ -1,0 +1,6 @@
+"Search" = "Søg"
+"Seek and you shall find …" = "Søg og du skal finde …"
+"Searching …" = "Søger …"
+"Try searching for " = "Prøv at søge på "
+" or " = " eller "
+"No results found for {{ .query }}." = "Ingen resultater fundet for {{ .query }}."

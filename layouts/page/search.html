@@ -1,0 +1,133 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      {{- partialCached "social/share.html" . . -}}
+      <h1 class="f1 athelas mt3 mb1">
+        {{- .Title -}}
+      </h1>
+
+      {{/* https://pagefind.app/docs/ui/ */}}
+      {{/*
+      <link href="{{ relURL "pagefind/pagefind-ui.css" }}" rel="stylesheet">
+      <script src="{{ relURL "pagefind/pagefind-ui.js" }}"></script>
+
+      <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+
+          const params = new URLSearchParams(window.location.search)
+          const query = params.get('s')
+          if (query) {
+            document.getElementById('search').innerHTML = ''
+            const search = new PagefindUI({ element: "#search", showSubResults: !true })
+            search.triggerSearch(query)
+          } else {
+            document.getElementById('search').innerHTML = '{{ i18n "Seek and you shall find …" }}'
+            document.getElementById('search-tips').hidden = false
+          }
+        })
+      </script>
+      */}}
+
+      <div class="search-results">
+        {{ i18n "Searching …" }}
+      </div>
+
+      <template id="search-results-empty-template">
+        <p>{{ i18n "No results found for {{ .query }}." (dict "query" "<span class='query'></span>") | safeHTML }}</p>
+      </template>
+
+      <template id="search-results-template">
+        <ol></ol>
+      </template>
+
+      <template id="search-result-template">
+        <li class="search-result">
+          <a href="#">
+            <h2>title</h2>
+
+            <div class="excerpt"></div>
+          </a>
+        </li>
+      </template>
+
+      <div id="search-tips" hidden>
+        {{/* https://gohugo.io/functions/lang/translate/ */}}
+        {{/* https://gohugo.io/functions/safe/html/ */}}
+        {{ i18n "Try searching for " }}
+        {{$terms := slice "rugbrød" "kærnemælk"}}
+        {{- range $i, $a := $terms -}}
+        {{- if gt $i 0 -}}
+        {{- if eq $i (sub (len $terms) 1) -}}
+        {{- i18n " or " -}}
+        {{- else -}}
+        {{- ", " -}}
+        {{- end -}}
+        {{- end -}}
+        <a href="?s={{ $a }}">{{ $a }}</a>
+        {{- end -}}
+        .
+      </div>
+
+      <script>
+        const query = new URLSearchParams(window.location.search).get('s')
+        if (query) {
+          // https://pagefind.app/docs/api/
+          import("/pagefind/pagefind.js")
+            .then(pagefind => pagefind.search(query))
+            .then(search => Promise.all(search.results.map(r => r.data())))
+            .then(data => {
+              if ("content" in document.createElement("template")) {
+                const container = document.querySelector(".search-results");
+                container.replaceChildren()
+                if (0 === data.length) {
+                  const template = document.querySelector("#search-results-empty-template").content;
+                  template.querySelector('span').textContent = query
+                  container.appendChild(template)
+                  document.getElementById('search-tips').hidden = false
+                } else {
+                  const wrapper = document.querySelector("#search-results-template").content;
+                  const template = document.querySelector("#search-result-template");
+                  for (const result of data) {
+                    const item = template.content.cloneNode(true);
+                    item.querySelector('a').href = result.url
+                    item.querySelector('h2').innerHTML = result.meta.title
+                    item.querySelector('.excerpt').innerHTML = result.excerpt
+                    wrapper.appendChild(item)
+                  }
+
+                  container.appendChild(wrapper)
+                }
+              }
+            })
+        } else {
+          document.getElementById('search').innerHTML = '{{ i18n "Seek and you shall find …" }}'
+          document.getElementById('search-tips').hidden = false
+        }
+      </script>
+
+{{/*
+      <script>
+        (async() => {
+          const query = new URLSearchParams(window.location.search).get('s')
+
+          // https://pagefind.app/docs/api/
+          const pagefind = await import("/pagefind/pagefind.js");
+          const search = await pagefind.search(query);
+          console.debug({search})
+          if (search.results.length > 0) {
+            const results = await Promise.all(search.results.map(r => r.data()));
+            // const oneResult = await search.results[0].data();
+            console.debug({results})
+          }
+        })();
+      </script>
+*/}}
+
+  </article>
+{{ end }}
