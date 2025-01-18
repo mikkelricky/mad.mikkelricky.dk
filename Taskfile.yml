@@ -1,3 +1,4 @@
+---
 version: '3'
 
 tasks:
@@ -9,48 +10,56 @@ tasks:
   serve:
     cmds:
       - hugo
+      # Index with Pagefind
       - npx --yes pagefind --site public
       # Clean up
       - mv public/pagefind . && rm -fr public/* && mv ./pagefind public
-      - hugo server
+      # https://gohugo.io/commands/hugo_server/
+      - hugo server --disableFastRender --cleanDestinationDir
 
   coding-standards:apply:
     desc: "Apply coding standards"
     cmds:
-      - task: coding-standards:markdown:apply
-      - task: coding-standards:assets:apply
+      - task: coding-standards:apply:assets
+      - task: coding-standards:apply:markdown
 
   coding-standards:check:
     desc: "Apply coding standards"
     cmds:
       - task: coding-standards:apply
-      - task: coding-standards:markdown:check
-      - task: coding-standards:assets:check
+      - task: coding-standards:check:assets
+      - task: coding-standards:check:markdown
+      - task: coding-standards:check:yaml
 
-  coding-standards:assets:apply:
+  coding-standards:apply:assets:
     desc: "Apply coding standards for assets"
     cmds:
       # docker: Error response from daemon: Head "https://ghcr.io/v2/biomejs/biome/manifests/1": unauthorized.
       # - docker run --rm --volume "$PWD:/workspace" ghcr.io/biomejs/biome biome check --write
       - npx @biomejs/biome check static/css --write
 
-  coding-standards:assets:check:
+  coding-standards:check:assets:
     desc: "Apply and check coding standards for assets"
     cmds:
-      - task: coding-standards:assets:apply
+      - task: coding-standards:apply:assets
       # - docker run --rm --volume "$PWD:/workspace" ghcr.io/biomejs/biome biome check
       - npx @biomejs/biome check static/css
 
-  coding-standards:markdown:apply:
+  coding-standards:apply:markdown:
     desc: "Apply coding standards for Markdown"
     cmds:
       - docker run --rm --volume "$PWD:/md" peterdavehello/markdownlint markdownlint '**/*.md' --fix
 
-  coding-standards:markdown:check:
+  coding-standards:check:markdown:
     desc: "Apply and check coding standards for Markdown"
     cmds:
-      - task: coding-standards:markdown:apply
+      - task: coding-standards:apply:markdown
       - docker run --rm --volume "$PWD:/md" peterdavehello/markdownlint markdownlint '**/*.md'
+
+  coding-standards:check:yaml:
+    cmds:
+      # https://hub.docker.com/r/pipelinecomponents/yamllint
+      - docker run --rm --volume "$PWD:/code" pipelinecomponents/yamllint yamllint .
 
   docker-pull:
     cmds:

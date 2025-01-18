@@ -1,0 +1,31 @@
+# https://yamllint.readthedocs.io/en/stable/configuration.html#extending-the-default-configuration
+---
+
+extends: default
+
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+
+ignore:
+  - themes/ananke/
+
+rules:
+  # https://yamllint.readthedocs.io/en/stable/rules.html#module-yamllint.rules.document_start
+  document-start:
+    # https://yamllint.readthedocs.io/en/stable/configuration.html#ignoring-paths
+    ignore:
+      - Taskfile.yml
+      - .github/
+
+  # https://yamllint.readthedocs.io/en/stable/rules.html#module-yamllint.rules.line_length
+  line-length:
+    max: 120
+    # level: warning
+    ignore:
+      - .github/workflows/
+
+  # https://yamllint.readthedocs.io/en/stable/rules.html#module-yamllint.rules.truthy
+  truthy:
+    ignore:
+      - .github/workflows/
