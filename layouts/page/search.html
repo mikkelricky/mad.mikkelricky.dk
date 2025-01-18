@@ -3,6 +3,20 @@
   {{ partial "page-header.html" . }}
 {{ end }}
 
+{{ define "partials/search/examples" }}
+        {{$terms := slice "rugbrød" "kærnemælk"}}
+        {{- range $i, $a := $terms -}}
+        {{- if gt $i 0 -}}
+        {{- if eq $i (sub (len $terms) 1) -}}
+        {{- i18n " or " -}}
+        {{- else -}}
+        {{- ", " -}}
+        {{- end -}}
+        {{- end -}}
+        <a href="?s={{ $a }}">{{ $a }}</a>
+        {{- end -}}
+{{ end }}
+
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
@@ -35,29 +49,18 @@
       <template id="search-result-template">
         <li class="search-result">
           <a href="#">
-            <h2>title</h2>
+            <h2></h2>
 
             <div class="excerpt"></div>
           </a>
         </li>
       </template>
 
+
       <div id="search-tips" hidden>
         {{/* https://gohugo.io/functions/lang/translate/ */}}
         {{/* https://gohugo.io/functions/safe/html/ */}}
-        {{ i18n "Try searching for " }}
-        {{$terms := slice "rugbrød" "kærnemælk"}}
-        {{- range $i, $a := $terms -}}
-        {{- if gt $i 0 -}}
-        {{- if eq $i (sub (len $terms) 1) -}}
-        {{- i18n " or " -}}
-        {{- else -}}
-        {{- ", " -}}
-        {{- end -}}
-        {{- end -}}
-        <a href="?s={{ $a }}">{{ $a }}</a>
-        {{- end -}}
-        .
+        {{- i18n "Try searching for " -}}{{- partial "partials/search/examples" -}}.
       </div>
 
       <script>
