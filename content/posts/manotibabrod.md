@@ -5,10 +5,10 @@ categories = ['Opskrift']
 tags = []
 +++
 
-- 400 g koldt vand
-- 20 g gær
-- 550 g manitobamel
-- 12 g salt (fint)
+* 400 g koldt vand
+* 20 g gær
+* 550 g manitobamel
+* 12 g salt (fint)
 
 1. Rør gær ud i vand, tilsæt mel og ælt ved mellemste trin i godt 10 minutter.
 2. Tilsæt salt og ælt i yderligere et par minutter.

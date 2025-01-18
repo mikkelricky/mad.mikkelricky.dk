@@ -5,17 +5,17 @@ categories = ['Mad', 'Opskrift']
 tags = ['æg', 'bacon', 'fløde', 'spaghetti']
 +++
 
-- 400 g spaghetti
-- vand
-- salt
-- 3 æg
-- 3 spsk. fløde
-- 100 g frisk parmesanost, fintrevet
-- 200 g bacontern
-- 2 hvidløgsfed, finthakket
-- 1 gult løg, finthakket
-- salt og sort peber
-- eventuelt finthakket persille
+* 400 g spaghetti
+* vand
+* salt
+* 3 æg
+* 3 spsk. fløde
+* 100 g frisk parmesanost, fintrevet
+* 200 g bacontern
+* 2 hvidløgsfed, finthakket
+* 1 gult løg, finthakket
+* salt og sort peber
+* eventuelt finthakket persille
 
 1. Kog pastaen ifølge anvisningen på pakken og hæld vandet fra.
 2. Pisk æg, fløde og halvdelen af parmesanen skummende. Krydr med salt og peber.

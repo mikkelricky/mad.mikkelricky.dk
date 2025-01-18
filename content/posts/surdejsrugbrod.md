@@ -5,16 +5,16 @@ categories = ['Brød']
 tags = ['rugbrød', 'surdej']
 +++
 
-- 1 klat surdej (fra sidste gang eller [frisklavet]({{< relref "surdejsrugbrod-trin-1" >}}))
-- 1 kg lunkent vand
-- 27 g salt
-- 300 g skårne rugkerner
-- 115 g hørfrø
-- 110 g ruggryn
-- 150 g solsikkefrø
-- 115 g sesamfrø
-- 250 g hvedemel
-- 300 g rugmel
+* 1 klat surdej (fra sidste gang eller [frisklavet]({{< relref "surdejsrugbrod-trin-1" >}}))
+* 1 kg lunkent vand
+* 27 g salt
+* 300 g skårne rugkerner
+* 115 g hørfrø
+* 110 g ruggryn
+* 150 g solsikkefrø
+* 115 g sesamfrø
+* 250 g hvedemel
+* 300 g rugmel
 
 Opskriften passer til en rugbrødsform på ca. 10 cm × 10 cm × 30 cm.
 

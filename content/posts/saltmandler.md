@@ -5,9 +5,9 @@ categories = ['Snack']
 tags = ['mandler', 'salt']
 +++
 
-- 2 dl vand
-- 2 spsk. salt
-- 200 g mandler
+* 2 dl vand
+* 2 spsk. salt
+* 200 g mandler
 
 1. Hæld vand og salt på en pande og bring det i kog.
 2. Put mandlerne i.

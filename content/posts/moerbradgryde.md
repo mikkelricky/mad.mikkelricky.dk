@@ -5,17 +5,17 @@ categories = ['Opskrift']
 tags = ['mørbrad']
 +++
 
-- 4 skiver bacon
-- 1 løg
-- 1 tsk smør
-- 1 svinemørbrad
-- 200 g cocktailpølser
-- 2 tsk mel
-- 2 tsk paprika
-- 1 stor spsk tomatpuré
-- Ca. 3 dl vand eller tynd bouillon
-- 1 dl fløde
-- Salt, peber
+* 4 skiver bacon
+* 1 løg
+* 1 tsk smør
+* 1 svinemørbrad
+* 200 g cocktailpølser
+* 2 tsk mel
+* 2 tsk paprika
+* 1 stor spsk tomatpuré
+* Ca. 3 dl vand eller tynd bouillon
+* 1 dl fløde
+* Salt, peber
 
 1. Skær baconen i bjælker og hak løget. Svits begge dele i smør i en stegegryde.
 2. Afpuds mørbraden og skær den i bøffer, som trykkes med håndroden. Læg dem i gryden og brun dem lidt sammen med

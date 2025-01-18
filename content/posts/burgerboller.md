@@ -5,13 +5,13 @@ categories = ['Mad']
 tags = ['boller', 'burger', 'kan fryses', 'pulled pork']
 +++
 
-- 15 g gær
-- 2,5 dl lunkent vand
-- 450 g hvedemel
-- 7 g salt
-- 40 g sukker
-- 40 g blødt smør i tern
-- Sesamfrø
+* 15 g gær
+* 2,5 dl lunkent vand
+* 450 g hvedemel
+* 7 g salt
+* 40 g sukker
+* 40 g blødt smør i tern
+* Sesamfrø
 
 Opløs gæren i det lunkne vand. Hæld først en smule mel i, derefter salt og sukker og til sidst resten af melet.
 

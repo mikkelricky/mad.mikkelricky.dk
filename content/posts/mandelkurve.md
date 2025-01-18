@@ -5,11 +5,11 @@ categories = ['Dessert', 'Opskrift']
 tags = ['mandler', 'sukker']
 +++
 
-- 150 g mandler
-- 100 g smør
-- 100 g sukker
-- 35 g mel
-- 30 g lys sirup
+* 150 g mandler
+* 100 g smør
+* 100 g sukker
+* 35 g mel
+* 30 g lys sirup
 
 1. Smut mandlerne og dup dem tørre
 2. Hak halvdelen meget fint og hak resten groft

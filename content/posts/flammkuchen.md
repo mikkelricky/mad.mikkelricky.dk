@@ -5,13 +5,13 @@ categories = ['Mad']
 tags = []
 +++
 
-- 35 g (2 spsk.) olie
-- 125 g vand
-- 250 g mel
-- 1 drys salt
-- creme fraiche
-- 2 løg
-- fyld, fx bacon i tern eller lufttørret skinke
+* 35 g (2 spsk.) olie
+* 125 g vand
+* 250 g mel
+* 1 drys salt
+* creme fraiche
+* 2 løg
+* fyld, fx bacon i tern eller lufttørret skinke
 
 Tænd ovnen på 250 °C og varm pizzastålet godt op.
 

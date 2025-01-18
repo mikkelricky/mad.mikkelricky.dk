@@ -5,12 +5,12 @@ categories = ['Opskrift']
 tags = []
 +++
 
-- 250 g mel
-- 5 spsk sukker
-- 1 tsk vaniljesukker
-- 1 tsk kardemomme
-- 6 æg
-- 6 dl mælk
+* 250 g mel
+* 5 spsk sukker
+* 1 tsk vaniljesukker
+* 1 tsk kardemomme
+* 6 æg
+* 6 dl mælk
 
 Pisk alle ingredienserne sammen i en skål og lad dejen hvile i en halv times tid.
 

@@ -5,14 +5,14 @@ categories = ['Brød']
 tags = []
 +++
 
-- 250 g vand
-- 5 g sukker
-- 25 g gær
-- 7 g salt
-- 200 g trekorns blandning (hørfrø, rugkerner og sesam)
-- 250 g kærnemælk
-- 50 g blødt smør
-- 600 g hvedemel
+* 250 g vand
+* 5 g sukker
+* 25 g gær
+* 7 g salt
+* 200 g trekorns blandning (hørfrø, rugkerner og sesam)
+* 250 g kærnemælk
+* 50 g blødt smør
+* 600 g hvedemel
 
 1. Opløs gær i vand og sukker og tilsæt salt.
 2. Tilsæt trekornsblandning, mælk og blødt smør.

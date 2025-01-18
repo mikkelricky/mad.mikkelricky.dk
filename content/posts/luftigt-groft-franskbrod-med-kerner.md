@@ -5,14 +5,14 @@ categories = ['Mad', 'Opskrift']
 tags = ['brød']
 +++
 
-5 dl lunkent vand
-15 g gær
-50 g havregryn
-300 hvedemel
-150 g grahamsmel
-1 spsk olivenolie
-2 tsk salt
-150 g solsikkekerner
+* 5 dl lunkent vand
+* 15 g gær
+* 50 g havregryn
+* 300 hvedemel
+* 150 g grahamsmel
+* 1 spsk olivenolie
+* 2 tsk salt
+* 150 g solsikkekerner
 
 1. Opløs gæren i vandet.
 2. Tilsæt de øvrige ingredienser. Dejen skal ikke æltes, men skal have en konsistens så den stadig kan røres rundt med

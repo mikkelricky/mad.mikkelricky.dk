@@ -5,20 +5,20 @@ categories = ['Mad', 'Opskrift']
 tags = ['bacon', 'kylling', 'vin']
 +++
 
-- 150 g bacon i tern
-- Olivenolie
-- 250 g champignoner
-- 250 g skalotteløg
-- 500 g kyllingefilet
-- 2 spsk hvedemel
-- ½ l rødvin (f.eks. en Cabernet Sauvignon)
-- 2 spsk flydende hønsebouillon (eller 1 terning)
-- 4 fed hvidløg, finthakkede
-- ½ dl friske timianblade (eller 1 stor tsk tørrede)
-- 2 laurbærblade
-- ½ tsk groft salt
-- Friskkværnet peber efter behag
-- 1 håndfuld grofthakket bredbladet persille
+* 150 g bacon i tern
+* Olivenolie
+* 250 g champignoner
+* 250 g skalotteløg
+* 500 g kyllingefilet
+* 2 spsk hvedemel
+* ½ l rødvin (f.eks. en Cabernet Sauvignon)
+* 2 spsk flydende hønsebouillon (eller 1 terning)
+* 4 fed hvidløg, finthakkede
+* ½ dl friske timianblade (eller 1 stor tsk tørrede)
+* 2 laurbærblade
+* ½ tsk groft salt
+* Friskkværnet peber efter behag
+* 1 håndfuld grofthakket bredbladet persille
 
 1. Svits baconen i en gryde i lidt olivenolie. Tag den op og læg den på en tallerken.
 2. Rens champignonerne og skær dem ud i halve eller kvarte (alt efter, hvor store de er). Svits dem i gryden i 4-5

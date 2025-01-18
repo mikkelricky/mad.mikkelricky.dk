@@ -6,12 +6,12 @@ tags = ['gær', 'pizza']
 draft = true
 +++
 
-- 25 g gær
-- 4 dl lunkent vand
-- 8 dl hvedemel
-- 3 dl durummel
-- 2 spsk olivenolie
-- 1 spsk salt
+* 25 g gær
+* 4 dl lunkent vand
+* 8 dl hvedemel
+* 3 dl durummel
+* 2 spsk olivenolie
+* 1 spsk salt
 
 1. Udrør gæren i det lunkne vand og tilsæt olie.
 2. Bland hvedemel, durummel og salt og hæld langsomt de flydende ingredienser over de tørre mens du rører i eller ælter dejen.

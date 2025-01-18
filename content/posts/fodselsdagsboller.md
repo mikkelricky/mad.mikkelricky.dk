@@ -5,13 +5,13 @@ categories = ['Opskrift']
 tags = ['boller']
 +++
 
-- 50 g gær
-- 6 dl sødmælk
-- 200 g blødt smør
-- 2 tsk salt
-- 2 tsk sukker
-- 2 æg
-- 1200 g hvedemel
+* 50 g gær
+* 6 dl sødmælk
+* 200 g blødt smør
+* 2 tsk salt
+* 2 tsk sukker
+* 2 æg
+* 1200 g hvedemel
 
 Mælken lunes, gær, sukker, æg og salt røres ud heri. Smørret blandes i melet. Det hele æltes sammen til dejen er glat og
 smidig. Hæver ca. 1 time.

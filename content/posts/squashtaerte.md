@@ -7,24 +7,24 @@ tags = []
 
 Tærtedej
 
-- 250 g hvedemel
-- 1 nip salt
-- 1 æg
-- 75 g rapsolie
-- 75 g vand
+* 250 g hvedemel
+* 1 nip salt
+* 1 æg
+* 75 g rapsolie
+* 75 g vand
 
 Mel og salt blandes og de øvrige ingredienser tilsættes. Dejen æltes grundigt igennem til den er smidig og hviler
 derefter på køl i mindst en time.
 
 Fyld
 
-- 2 porrer
-- 1  løg
-- 2 squash
-- 2-3 fed hvidløg
-- timian
-- 3 æg
-- 50 g parmesan
+* 2 porrer
+* 1  løg
+* 2 squash
+* 2-3 fed hvidløg
+* timian
+* 3 æg
+* 50 g parmesan
 
 Porrer, løg og hvidløg snittes fint og sauteres på en pande i olie til det falder sammen. Squash rives på den grove side
 af råkostjernet og kommes på panden sammen med timian. Det hele steges roligt til alt er mørt og evt. væde er nogenlunde

@@ -5,16 +5,16 @@ categories = ['Mad', 'Opskrift', 'Toscana']
 tags = ['bønner', 'fløde', 'suppe']
 +++
 
-- 2 spsk. smør
-- 1 spsk. olivenolie
-- 2 skalotteløg, hakkede
-- 1 salvieblad
-- 500 g hvide bønner (cannellini), drænede og skyllede
-- 1 l kyllingesuppe
-- 4 fed hvidløg, halverede
-- 1 dl fløde
-- 1/2 tsk. peber, friskkværnet
-- 6 skiver ciabattabrød
+* 2 spsk. smør
+* 1 spsk. olivenolie
+* 2 skalotteløg, hakkede
+* 1 salvieblad
+* 500 g hvide bønner (cannellini), drænede og skyllede
+* 1 l kyllingesuppe
+* 4 fed hvidløg, halverede
+* 1 dl fløde
+* 1/2 tsk. peber, friskkværnet
+* 6 skiver ciabattabrød
 
 1. Put smør, olie og løg i en gryde og steg indtil løgene er bløde og klare (ca. 5 min.).
 2. Tilsæt salvie og bønner og rør godt.

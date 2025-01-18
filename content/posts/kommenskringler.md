@@ -5,19 +5,13 @@ categories = ['Opskrift']
 tags = []
 +++
 
-500 g mel
-
-50 g smør
-
-8 g sukker
-
-5 g salt
-
-50 g gær
-
-250 g sødmælk
-
-10 g kommen
+* 500 g mel
+* 50 g smør
+* 8 g sukker
+* 5 g salt
+* 50 g gær
+* 250 g sødmælk
+* 10 g kommen
 
 Smelt smørret, hæld mælken i og rør gæren ud i blandingen.
 

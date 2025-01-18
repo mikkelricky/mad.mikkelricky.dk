@@ -5,18 +5,18 @@ categories = ['Suppe']
 tags = ['karry', 'kylling', 'ris']
 +++
 
-- 1½ l hønsekødsuppe
-- 1 kg kylling
-- 1 løg
-- 1 gulerod
-- 1 knoldselleri
-- 1 andet løg
-- 2 spsk smør
-- 2 spsk mel
-- 1 dl fløde
-- 1 spsk karry
-- salt og peber
-- kogt ris
+* 1½ l hønsekødsuppe
+* 1 kg kylling
+* 1 løg
+* 1 gulerod
+* 1 knoldselleri
+* 1 andet løg
+* 2 spsk smør
+* 2 spsk mel
+* 1 dl fløde
+* 1 spsk karry
+* salt og peber
+* kogt ris
 
 Pil og finhak det ene løg. Skræl guleroden og sellerien og del dem i store stykker. Undersøg om kyllingen er delt i
 stykker på størrelse med ⅛ kylling – hvis ikke så del kyllingen i stykker på størrelse med ⅛ kylling. Bring suppen i kog

@@ -5,18 +5,18 @@ categories = ['Mad', 'Opskrift']
 tags = ['ris']
 +++
 
-- 2 kopper hønsebouillon
-- 1,5 dl hvidvin
-- 1 dåse hakkede flåede tomater
-- 2,5 dl brune ris
-- 1 stort hakket løg
-- 2 fed hakkede hvidløg
-- 3 stænger bladselleri
-- 2,5 dl frosne majs eller fra dåse
-- 5 krydrede chorizopølser
-- 1 grøn peberfrugt
-- 1 rød peberfrugt
-- 5 dl frosne tigerrejer
+* 2 kopper hønsebouillon
+* 1,5 dl hvidvin
+* 1 dåse hakkede flåede tomater
+* 2,5 dl brune ris
+* 1 stort hakket løg
+* 2 fed hakkede hvidløg
+* 3 stænger bladselleri
+* 2,5 dl frosne majs eller fra dåse
+* 5 krydrede chorizopølser
+* 1 grøn peberfrugt
+* 1 rød peberfrugt
+* 5 dl frosne tigerrejer
 
 1. Hæld bouillon, vin, tomater og ris i stentøjsterrinen. Rør risene rundt i væsken, så alle ris er dækkede. Sæt
    terrinen i ovnen og bag retten ved 180 °C i en halv time.

@@ -5,12 +5,12 @@ categories = ['Opskrift']
 tags = ['gær', 'langtidshævning', 'pizza']
 +++
 
-- 575 g koldt vand
-- 5 g gær
-- 200 g fuldkornsølandshvedemel
-- 800 g hvedemel (gerne tipo 00)
-- 25 g fint salt
-- olie til pensling
+* 575 g koldt vand
+* 5 g gær
+* 200 g fuldkornsølandshvedemel
+* 800 g hvedemel (gerne tipo 00)
+* 25 g fint salt
+* olie til pensling
 
 Æltning med maskine
 
