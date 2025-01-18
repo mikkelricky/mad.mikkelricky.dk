@@ -1,9 +1,9 @@
-+++
-title = 'Hveder'
-date = '2021-05-13'
-categories = ['Brød']
-tags = ['kardemomme', 'sødmælk']
-+++
+---
+title: 'Hveder'
+date: '2021-05-13'
+categories: ['Brød']
+tags: ['kardemomme', 'sødmælk']
+---
 
 * 15 g gær
 * 175 g koldt vand

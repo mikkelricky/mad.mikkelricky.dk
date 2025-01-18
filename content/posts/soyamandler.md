@@ -1,9 +1,9 @@
-+++
-title = 'Soyamandler'
-date = '2014-01-06'
-categories = ['Opskrift', 'Snack']
-tags = ['mandler', 'soya']
-+++
+---
+title: 'Soyamandler'
+date: '2014-01-06'
+categories: ['Opskrift', 'Snack']
+tags: ['mandler', 'soya']
+---
 
 * 200 g mandler
 * 4 spsk. soya

@@ -1,9 +1,9 @@
-+++
-title = 'Toscansk bønnesuppe'
-date = '2014-10-06'
-categories = ['Mad', 'Opskrift', 'Toscana']
-tags = ['bønner', 'fløde', 'suppe']
-+++
+---
+title: 'Toscansk bønnesuppe'
+date: '2014-10-06'
+categories: ['Mad', 'Opskrift', 'Toscana']
+tags: ['bønner', 'fløde', 'suppe']
+---
 
 * 2 spsk. smør
 * 1 spsk. olivenolie

@@ -1,9 +1,9 @@
-+++
-title = 'Littes is'
-date = '2014-10-11'
-categories = ['Dessert', 'Opskrift']
-tags = ['æg', 'fløde', 'sukker', 'vanille']
-+++
+---
+title: 'Littes is'
+date: '2014-10-11'
+categories: ['Dessert', 'Opskrift']
+tags: ['æg', 'fløde', 'sukker', 'vanille']
+---
 
 * 60 g æggeblommer
 * 80 g sukker

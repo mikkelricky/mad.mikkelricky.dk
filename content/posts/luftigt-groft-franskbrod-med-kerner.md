@@ -1,9 +1,9 @@
-+++
-title = 'Luftigt, groft franskbrød med kerner'
-date = '2014-05-10'
-categories = ['Mad', 'Opskrift']
-tags = ['brød']
-+++
+---
+title: 'Luftigt, groft franskbrød med kerner'
+date: '2014-05-10'
+categories: ['Mad', 'Opskrift']
+tags: ['brød']
+---
 
 * 5 dl lunkent vand
 * 15 g gær

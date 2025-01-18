@@ -1,9 +1,9 @@
-+++
-title = 'Spaghetti alla carbonara'
-date = '2013-11-02'
-categories = ['Mad', 'Opskrift']
-tags = ['æg', 'bacon', 'fløde', 'spaghetti']
-+++
+---
+title: 'Spaghetti alla carbonara'
+date: '2013-11-02'
+categories: ['Mad', 'Opskrift']
+tags: ['æg', 'bacon', 'fløde', 'spaghetti']
+---
 
 * 400 g spaghetti
 * vand

@@ -1,9 +1,9 @@
-+++
-title = 'Burgerboller'
-date = '2016-09-18'
-categories = ['Mad']
-tags = ['boller', 'burger', 'kan fryses', 'pulled pork']
-+++
+---
+title: 'Burgerboller'
+date: '2016-09-18'
+categories: ['Mad']
+tags: ['boller', 'burger', 'kan fryses', 'pulled pork']
+---
 
 * 15 g gær
 * 2,5 dl lunkent vand

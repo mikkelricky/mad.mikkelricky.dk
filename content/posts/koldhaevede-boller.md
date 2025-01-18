@@ -1,9 +1,9 @@
-+++
-title = 'Koldhævede boller'
-date = '2015-06-03'
-categories = ['Opskrift']
-tags = ['boller', 'gær', 'mel']
-+++
+---
+title: 'Koldhævede boller'
+date: '2015-06-03'
+categories: ['Opskrift']
+tags: ['boller', 'gær', 'mel']
+---
 
 * 5 dl koldt vand
 * 25 g gær

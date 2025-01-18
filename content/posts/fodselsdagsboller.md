@@ -1,9 +1,9 @@
-+++
-title = 'Fødselsdagsboller'
-date = '2017-05-25'
-categories = ['Opskrift']
-tags = ['boller']
-+++
+---
+title: 'Fødselsdagsboller'
+date: '2017-05-25'
+categories: ['Opskrift']
+tags: ['boller']
+---
 
 * 50 g gær
 * 6 dl sødmælk

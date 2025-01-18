@@ -1,9 +1,9 @@
-+++
-title = 'Jambalaya med rejer og chorizo'
-date = '2014-03-12'
-categories = ['Mad', 'Opskrift']
-tags = ['ris']
-+++
+---
+title: 'Jambalaya med rejer og chorizo'
+date: '2014-03-12'
+categories: ['Mad', 'Opskrift']
+tags: ['ris']
+---
 
 * 2 kopper hønsebouillon
 * 1,5 dl hvidvin

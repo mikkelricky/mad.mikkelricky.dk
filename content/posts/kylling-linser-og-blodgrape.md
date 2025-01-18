@@ -1,9 +1,9 @@
-+++
-title = 'Kylling, linser og blodgrape'
-date = '2015-01-05'
-categories = ['Bitz', 'Opskrift']
-tags = ['kylling', 'linser', 'skyr', 'spidskål']
-+++
+---
+title: 'Kylling, linser og blodgrape'
+date: '2015-01-05'
+categories: ['Bitz', 'Opskrift']
+tags: ['kylling', 'linser', 'skyr', 'spidskål']
+---
 
 * 2 kyllingelår
 * 1 stilk frisk rosmarin

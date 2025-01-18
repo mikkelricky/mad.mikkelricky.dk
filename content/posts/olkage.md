@@ -1,9 +1,9 @@
-+++
-title = 'Ølkage'
-date = '2015-05-20'
-categories = ['Mad', 'Opskrift']
-tags = ['kage', 'øl']
-+++
+---
+title: 'Ølkage'
+date: '2015-05-20'
+categories: ['Mad', 'Opskrift']
+tags: ['kage', 'øl']
+---
 
 * 500 g farin
 * 1 flaske hvidtøl

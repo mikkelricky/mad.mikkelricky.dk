@@ -1,9 +1,9 @@
-+++
-title = 'Omelet'
-date = '2013-09-14'
-categories = ['Mad', 'Opskrift']
-tags = ['æg', 'omelet']
-+++
+---
+title: 'Omelet'
+date: '2013-09-14'
+categories: ['Mad', 'Opskrift']
+tags: ['æg', 'omelet']
+---
 
 * 3 æg
 * 3 spsk. mælk

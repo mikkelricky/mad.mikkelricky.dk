@@ -1,9 +1,9 @@
-+++
-title = 'Surdejsrugbrød – Surdej'
-date = '2016-01-15'
-categories = ['Brød']
-tags = ['rugbrød', 'surdej']
-+++
+---
+title: 'Surdejsrugbrød – Surdej'
+date: '2016-01-15'
+categories: ['Brød']
+tags: ['rugbrød', 'surdej']
+---
 
 * 50 g moden surdej (se [indledende knæbøjninger]({{< relref "surdejsrugbrod-indledende-knaebojninger" >}}))
 * 50 g rugmel

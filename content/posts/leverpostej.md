@@ -1,9 +1,9 @@
-+++
-title = 'Leverpostej'
-date = '2017-10-07'
-categories = ['Opskrift']
-tags = ['lever']
-+++
+---
+title: 'Leverpostej'
+date: '2017-10-07'
+categories: ['Opskrift']
+tags: ['lever']
+---
 
 * 1500 g svinelever
 * 500 g hakket spæk†

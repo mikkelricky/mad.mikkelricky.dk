@@ -1,9 +1,9 @@
-+++
-title = 'Pizzadej'
-date = '2020-03-29'
-categories = ['Opskrift']
-tags = ['gær', 'langtidshævning', 'pizza']
-+++
+---
+title: 'Pizzadej'
+date: '2020-03-29'
+categories: ['Opskrift']
+tags: ['gær', 'langtidshævning', 'pizza']
+---
 
 * 575 g koldt vand
 * 5 g gær

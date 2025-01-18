@@ -1,9 +1,9 @@
-+++
-title = 'Lisas chokoladekage'
-date = '2016-04-02'
-categories = ['Dessert', 'Opskrift']
-tags = ['kakao']
-+++
+---
+title: 'Lisas chokoladekage'
+date: '2016-04-02'
+categories: ['Dessert', 'Opskrift']
+tags: ['kakao']
+---
 
 * 100 g smør
 * 100 g mandler

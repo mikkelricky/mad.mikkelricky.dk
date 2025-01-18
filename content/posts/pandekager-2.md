@@ -1,9 +1,9 @@
-+++
-title = 'Pandekager'
-date = '2025-01-10'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Pandekager'
+date: '2025-01-10'
+categories: ['Opskrift']
+tags: []
+---
 
 * 250 g mel
 * 5 spsk sukker

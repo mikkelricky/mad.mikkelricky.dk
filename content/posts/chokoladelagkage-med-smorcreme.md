@@ -1,9 +1,9 @@
-+++
-title = 'Chokoladelagkage med smørcreme'
-date = '2017-05-20'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Chokoladelagkage med smørcreme'
+date: '2017-05-20'
+categories: ['Opskrift']
+tags: []
+---
 
 ## Lagkagebunde
 

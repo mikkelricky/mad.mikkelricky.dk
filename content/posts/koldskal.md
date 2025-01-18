@@ -1,9 +1,9 @@
-+++
-title = 'Koldskål'
-date = '2014-07-11'
-categories = ['Dessert', 'Mad', 'Opskrift']
-tags = ['æg', 'kærnemælk']
-+++
+---
+title: 'Koldskål'
+date: '2014-07-11'
+categories: ['Dessert', 'Mad', 'Opskrift']
+tags: ['æg', 'kærnemælk']
+---
 
 * 500 g kærnemælk
 * 500 g ymer/yoghurt/A38 eller lign.

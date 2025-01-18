@@ -1,9 +1,9 @@
-+++
-title = 'Flammkuchen'
-date = '2016-10-08'
-categories = ['Mad']
-tags = []
-+++
+---
+title: 'Flammkuchen'
+date: '2016-10-08'
+categories: ['Mad']
+tags: []
+---
 
 * 35 g (2 spsk.) olie
 * 125 g vand

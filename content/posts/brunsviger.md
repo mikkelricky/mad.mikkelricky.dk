@@ -1,9 +1,9 @@
-+++
-title = 'Brunsviger'
-date = '2019-01-05'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Brunsviger'
+date: '2019-01-05'
+categories: ['Opskrift']
+tags: []
+---
 
 INGREDIENSER
 

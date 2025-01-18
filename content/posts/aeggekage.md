@@ -1,9 +1,9 @@
-+++
-title = 'Æggekage'
-date = '2013-11-05'
-categories = ['Mad', 'Opskrift']
-tags = ['æg', 'kage']
-+++
+---
+title: 'Æggekage'
+date: '2013-11-05'
+categories: ['Mad', 'Opskrift']
+tags: ['æg', 'kage']
+---
 
 * 3 æg
 * 3/4 dl letmælk

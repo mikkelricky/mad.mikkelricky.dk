@@ -1,9 +1,9 @@
-+++
-title = 'Kommenskringler'
-date = '2022-12-29'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Kommenskringler'
+date: '2022-12-29'
+categories: ['Opskrift']
+tags: []
+---
 
 * 500 g mel
 * 50 g smør

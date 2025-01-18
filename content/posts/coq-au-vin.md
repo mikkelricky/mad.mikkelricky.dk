@@ -1,9 +1,9 @@
-+++
-title = 'Coq au vin'
-date = '2014-06-28'
-categories = ['Mad', 'Opskrift']
-tags = ['bacon', 'kylling', 'vin']
-+++
+---
+title: 'Coq au vin'
+date: '2014-06-28'
+categories: ['Mad', 'Opskrift']
+tags: ['bacon', 'kylling', 'vin']
+---
 
 * 150 g bacon i tern
 * Olivenolie

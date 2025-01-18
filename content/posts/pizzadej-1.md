@@ -1,10 +1,10 @@
-+++
-title = 'Pizzadej'
-date = '2016-04-07'
-categories = ['Mad', 'Opskrift']
-tags = ['gær', 'pizza']
-draft = true
-+++
+---
+title: 'Pizzadej'
+date: '2016-04-07'
+categories: ['Mad', 'Opskrift']
+tags: ['gær', 'pizza']
+draft: true
+---
 
 * 25 g gær
 * 4 dl lunkent vand

@@ -1,9 +1,9 @@
-+++
-title = 'Rugbrødstoppe'
-date = '2023-07-15'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Rugbrødstoppe'
+date: '2023-07-15'
+categories: ['Opskrift']
+tags: []
+---
 
 * 150 g rugbrød
 * 2 spsk. sukker

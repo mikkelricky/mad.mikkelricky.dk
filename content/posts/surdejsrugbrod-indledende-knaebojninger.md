@@ -1,9 +1,9 @@
-+++
-title = 'Surdejsrugbrød – Indledende knæbøjninger'
-date = '2016-01-15'
-categories = ['Brød']
-tags = ['rugbrød', 'surdej']
-+++
+---
+title: 'Surdejsrugbrød – Indledende knæbøjninger'
+date: '2016-01-15'
+categories: ['Brød']
+tags: ['rugbrød', 'surdej']
+---
 
 * 150 g fuldkornsrugmel
 * 1 dl vand

@@ -1,9 +1,9 @@
-+++
-title = 'Mandelkurve'
-date = '2014-10-11'
-categories = ['Dessert', 'Opskrift']
-tags = ['mandler', 'sukker']
-+++
+---
+title: 'Mandelkurve'
+date: '2014-10-11'
+categories: ['Dessert', 'Opskrift']
+tags: ['mandler', 'sukker']
+---
 
 * 150 g mandler
 * 100 g smør

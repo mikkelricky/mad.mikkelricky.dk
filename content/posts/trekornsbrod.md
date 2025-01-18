@@ -1,9 +1,9 @@
-+++
-title = 'Trekornsbrød'
-date = '2018-03-17'
-categories = ['Brød']
-tags = []
-+++
+---
+title: 'Trekornsbrød'
+date: '2018-03-17'
+categories: ['Brød']
+tags: []
+---
 
 * 250 g vand
 * 5 g sukker

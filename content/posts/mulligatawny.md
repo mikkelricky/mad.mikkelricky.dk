@@ -1,9 +1,9 @@
-+++
-title = 'Mulligatawny'
-date = '2016-04-02'
-categories = ['Suppe']
-tags = ['karry', 'kylling', 'ris']
-+++
+---
+title: 'Mulligatawny'
+date: '2016-04-02'
+categories: ['Suppe']
+tags: ['karry', 'kylling', 'ris']
+---
 
 * 1½ l hønsekødsuppe
 * 1 kg kylling

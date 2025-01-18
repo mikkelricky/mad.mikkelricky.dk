@@ -1,9 +1,9 @@
-+++
-title = 'Pandekager'
-date = '2016-10-08'
-categories = ['Opskrift']
-tags = ['æg', 'kage']
-+++
+---
+title: 'Pandekager'
+date: '2016-10-08'
+categories: ['Opskrift']
+tags: ['æg', 'kage']
+---
 
 * 4 æg
 * 4 dl kærnemælk

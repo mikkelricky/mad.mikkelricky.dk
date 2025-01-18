@@ -1,9 +1,9 @@
-+++
-title = 'Squashtærte'
-date = '2021-07-15'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Squashtærte'
+date: '2021-07-15'
+categories: ['Opskrift']
+tags: []
+---
 
 Tærtedej
 

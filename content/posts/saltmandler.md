@@ -1,9 +1,9 @@
-+++
-title = 'Saltmandler'
-date = '2014-01-06'
-categories = ['Snack']
-tags = ['mandler', 'salt']
-+++
+---
+title: 'Saltmandler'
+date: '2014-01-06'
+categories: ['Snack']
+tags: ['mandler', 'salt']
+---
 
 * 2 dl vand
 * 2 spsk. salt

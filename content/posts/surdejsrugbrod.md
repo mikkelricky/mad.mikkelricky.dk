@@ -1,9 +1,9 @@
-+++
-title = 'Surdejsrugbrød'
-date = '2016-01-15'
-categories = ['Brød']
-tags = ['rugbrød', 'surdej']
-+++
+---
+title: 'Surdejsrugbrød'
+date: '2016-01-15'
+categories: ['Brød']
+tags: ['rugbrød', 'surdej']
+---
 
 * 1 klat surdej (fra sidste gang eller [frisklavet]({{< relref "surdejsrugbrod-trin-1" >}}))
 * 1 kg lunkent vand

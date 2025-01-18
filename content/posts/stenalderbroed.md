@@ -1,9 +1,9 @@
-+++
-title = 'Stenalderbrød'
-date = '2012-11-11'
-categories = ['Mad', 'Opskrift', 'Stenaldermad']
-tags = ['æg', 'kerner', 'mandler', 'nødder', 'stenalderkost']
-+++
+---
+title: 'Stenalderbrød'
+date: '2012-11-11'
+categories: ['Mad', 'Opskrift', 'Stenaldermad']
+tags: ['æg', 'kerner', 'mandler', 'nødder', 'stenalderkost']
+---
 
 * 100 g græskarkerner
 * 100 g solsikkekerner

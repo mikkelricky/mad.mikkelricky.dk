@@ -1,9 +1,9 @@
-+++
-title = 'Saltmandler'
-date = '2023-08-26'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Saltmandler'
+date: '2023-08-26'
+categories: ['Opskrift']
+tags: []
+---
 
 * 100 g vand
 * 30 g salt

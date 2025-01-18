@@ -1,9 +1,9 @@
-+++
-title = 'Knækbrød'
-date = '2014-09-19'
-categories = ['Stenaldermad']
-tags = ['kerner', 'stenalderkost']
-+++
+---
+title: 'Knækbrød'
+date: '2014-09-19'
+categories: ['Stenaldermad']
+tags: ['kerner', 'stenalderkost']
+---
 
 * 1 dl loppefrøskaller
 * 1 dl hørfrø

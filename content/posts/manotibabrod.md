@@ -1,9 +1,9 @@
-+++
-title = 'Manitobabrød'
-date = '2023-03-12'
-categories = ['Opskrift']
-tags = []
-+++
+---
+title: 'Manitobabrød'
+date: '2023-03-12'
+categories: ['Opskrift']
+tags: []
+---
 
 * 400 g koldt vand
 * 20 g gær

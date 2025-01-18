@@ -1,9 +1,9 @@
-+++
-title = 'Mørbradgryde'
-date = '2015-04-26'
-categories = ['Opskrift']
-tags = ['mørbrad']
-+++
+---
+title: 'Mørbradgryde'
+date: '2015-04-26'
+categories: ['Opskrift']
+tags: ['mørbrad']
+---
 
 * 4 skiver bacon
 * 1 løg
