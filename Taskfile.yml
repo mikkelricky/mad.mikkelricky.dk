@@ -15,7 +15,7 @@ tasks:
       # Clean up
       - mv public/pagefind . && rm -fr public/* && mv ./pagefind public
       # https://gohugo.io/commands/hugo_server/
-      - hugo server --disableFastRender --cleanDestinationDir
+      - hugo server --disableFastRender
 
   coding-standards:apply:
     desc: "Apply coding standards"

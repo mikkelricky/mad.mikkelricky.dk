@@ -6,6 +6,9 @@ languageCode = 'da'
 # https://discourse.gohugo.io/t/issue-with-multilingual-date-time-format/37575/2
 defaultContentLanguage = 'da'
 
+# https://gohugo.io/getting-started/configuration/#enablemissingtranslationplaceholders
+enableMissingTranslationPlaceholders = true
+
 title = 'mad.mikkelricky.dk'
 
 # https://github.com/theNewDynamic/gohugo-theme-ananke
