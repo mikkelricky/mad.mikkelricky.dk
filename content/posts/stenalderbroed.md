@@ -13,7 +13,7 @@ tags: ['æg', 'kerner', 'mandler', 'nødder', 'stenalderkost']
 * 100 g sesamfrø
 * 5 æg
 * 1 dl olivenolie
-* 1 tsk salt
+* 1 tsk. salt
 
 1. Bland alle ingredienser i en skål og kom stadset i en silikonerugbrødsform.
 2. Bag brødet i en time ved 160 °C.

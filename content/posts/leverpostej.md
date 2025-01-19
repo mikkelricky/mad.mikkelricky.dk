@@ -10,9 +10,9 @@ tags: ['lever']
 * 3 æg
 * 3 løg
 * 1 l mælk
-* 1 tsk allehånde
-* 5 tsk salt
-* 1 tsk peber
+* 1 tsk. allehånde
+* 5 tsk. salt
+* 1 tsk. peber
 * 6 folieforme á 9 dl
 
 1. Del løg i kvarte og smadr lever, spæk og løg i en foodprocessor ad 3–4 omgange.

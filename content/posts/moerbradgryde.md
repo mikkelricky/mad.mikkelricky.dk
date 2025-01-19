@@ -7,12 +7,12 @@ tags: ['mørbrad']
 
 * 4 skiver bacon
 * 1 løg
-* 1 tsk smør
+* 1 tsk. smør
 * 1 svinemørbrad
 * 200 g cocktailpølser
-* 2 tsk mel
-* 2 tsk paprika
-* 1 stor spsk tomatpuré
+* 2 tsk. mel
+* 2 tsk. paprika
+* 1 stor spsk. tomatpuré
 * Ca. 3 dl vand eller tynd bouillon
 * 1 dl fløde
 * Salt, peber

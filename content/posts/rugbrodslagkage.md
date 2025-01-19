@@ -11,9 +11,9 @@ source: 'https://www.isabellas.dk/kager-desserter/kager/rugbroedslagkage-med-flo
 * 6 æg
 * 150 g lyst rørsukker
 * 200 g rugbrød uden kerner
-* 2 spsk kakao
-* 1 spsk kartoffelmel
-* 2 tsk bagepulver
+* 2 spsk. kakao
+* 1 spsk. kartoffelmel
+* 2 tsk. bagepulver
 * 50 g hasselnødder
 * smør til formen
 

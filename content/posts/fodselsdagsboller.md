@@ -8,8 +8,8 @@ tags: ['boller']
 * 50 g gær
 * 6 dl sødmælk
 * 200 g blødt smør
-* 2 tsk salt
-* 2 tsk sukker
+* 2 tsk. salt
+* 2 tsk. sukker
 * 2 æg
 * 1200 g hvedemel
 

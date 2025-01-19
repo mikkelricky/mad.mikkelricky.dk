@@ -10,8 +10,8 @@ tags: ['brød']
 * 50 g havregryn
 * 300 hvedemel
 * 150 g grahamsmel
-* 1 spsk olivenolie
-* 2 tsk salt
+* 1 spsk. olivenolie
+* 2 tsk. salt
 * 150 g solsikkekerner
 
 1. Opløs gæren i vandet.

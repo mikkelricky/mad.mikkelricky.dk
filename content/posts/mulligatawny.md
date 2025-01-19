@@ -11,10 +11,10 @@ tags: ['karry', 'kylling', 'ris']
 * 1 gulerod
 * 1 knoldselleri
 * 1 andet løg
-* 2 spsk smør
-* 2 spsk mel
+* 2 spsk. smør
+* 2 spsk. mel
 * 1 dl fløde
-* 1 spsk karry
+* 1 spsk. karry
 * salt og peber
 * kogt ris
 

@@ -6,9 +6,9 @@ tags: []
 ---
 
 * 250 g mel
-* 5 spsk sukker
-* 1 tsk vaniljesukker
-* 1 tsk kardemomme
+* 5 spsk. sukker
+* 1 tsk. vaniljesukker
+* 1 tsk. kardemomme
 * 6 æg
 * 6 dl mælk
 

@@ -10,7 +10,7 @@ tags: ['boller', 'gær', 'mel']
 * 300 g grahamsmel
 * 50 g havregryn (eller andre korn/kerner/gryn)
 * 200 g mel
-* 1 tsk salt
+* 1 tsk. salt
 
 Om aftenen: Vand og gær kommes i en stor skål og gæren røres ud i vandet. Tilsæt grahamsmel og havregryn. Rør rundt med
 en grydeske, tilsæt hvedemel og salt. Rør og mærk efter om dejen kan klare lidt mere hvedemel. Dejen skal være til at

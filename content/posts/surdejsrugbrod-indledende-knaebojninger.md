@@ -9,7 +9,7 @@ tags: ['rugbrød', 'surdej']
 * 1 dl vand
 * 1 dl kærnemælk eller tykmælk
 * 5 g gær
-* ½ tsk honning
+* ½ tsk. honning
 
 Lun vand og surmælk til ca. 35 °C. Tilsæt resten og rør godt sammen. Kom dejen i et glas med låg og lad den stå lunt i 2
 dage.

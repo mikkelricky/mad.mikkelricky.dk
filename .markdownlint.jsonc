@@ -14,7 +14,7 @@
 	"no-inline-html": {
 		"allowed_elements": ["section", "cite"]
 	},
-    // We generate some ids.
-    // https://github.com/DavidAnson/markdownlint/blob/main/doc/md051.md
-    "link-fragments": false,
+  // We generate some ids.
+  // https://github.com/DavidAnson/markdownlint/blob/main/doc/md051.md
+  "link-fragments": false
 }

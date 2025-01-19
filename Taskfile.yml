@@ -29,6 +29,7 @@ tasks:
       - task: coding-standards:apply
       - task: coding-standards:check:assets
       - task: coding-standards:check:markdown
+      - task: coding-standards:check:spelling
       - task: coding-standards:check:yaml
 
   coding-standards:apply:assets:
@@ -60,6 +61,10 @@ tasks:
     cmds:
       # https://hub.docker.com/r/pipelinecomponents/yamllint
       - docker run --rm --volume "$PWD:/code" pipelinecomponents/yamllint yamllint .
+
+  coding-standards:check:spelling:
+    cmds:
+      - "! grep --recursive --line-number --extended-regexp '(knsp|spsk|tsk)[^.]' content"
 
   docker-pull:
     cmds:

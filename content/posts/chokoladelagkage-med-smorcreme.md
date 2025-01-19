@@ -27,7 +27,7 @@ Form lagkagebunde og bag ved 200 °C
 * 1 dl vand
 * 1 æggeblomme
 * 250 gram smør
-* 1 spsk vanillesukker
+* 1 spsk. vanillesukker
 
 Tag smørret ud i god tid og lad det stå ved stuetemperatur så det bliver blødt.
 
