@@ -37,12 +37,30 @@
 
             // Set up search keyboard shortcut on device with physical keyboard.
             if (hasPhysicalKeyboard) {
-              const shortcut = '/'
-              hotkeys(shortcut, (event, handler) => {
+              /*
+              const connect = (list, lastConnector) => {
+                if (list.length < 2) {
+                  return list.join()
+                }
+
+                const last = list.slice(-1)
+                const rest = list.slice(0, -1)
+
+                console.log({last, rest})
+
+                return rest.join(', ') + ' ' + lastConnector + ' ' + last
+              }
+              */
+
+              const shortcuts = [
+                '/',
+                'shift+7', // Shift+7 prints / on a Danish keyboard
+              ]
+              hotkeys(shortcuts.join(','), (event, handler) => {
                 event.preventDefault()
                 searchInput.focus()
               })
-              const placeholder = {{ i18n "Type %shortcut% to search"}}.replace("%shortcut%", shortcut)
+              const placeholder = {{ i18n "Type %shortcut% to search"}}.replace("%shortcut%", shortcuts[0])
               searchInput.addEventListener('focus', () => searchInput.setAttribute('placeholder', {{ i18n "Search" }}))
               searchInput.addEventListener('blur', () => searchInput.setAttribute('placeholder', placeholder))
               searchInput.setAttribute('placeholder', placeholder)
