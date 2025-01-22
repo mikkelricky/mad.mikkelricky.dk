@@ -1,0 +1,76 @@
+on: pull_request
+name: Review
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    name: Changelog should be updated
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Git fetch
+        run: git fetch
+
+      - name: Check that changelog has been updated.
+        run: git diff --exit-code origin/${{ github.base_ref }} -- CHANGELOG.md && exit 1 || exit 0
+
+  coding-standards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: arduino/setup-task@v2
+      - run: |
+          task coding-standards:check
+          # The check can have side effects, so we need an additional check for changes.
+          # (cf. https://git-scm.com/docs/git-diff#Documentation/git-diff.txt-code--exit-codecode)
+          git diff --exit-code
+      - run: |
+          task coding-standards:check:spelling
+
+  # Copied from ./hugo.yaml
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.137.1
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      # - name: Install Dart Sass
+      #   run: sudo snap install dart-sass
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+          TZ: Europe/Copenhagen
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # https://pagefind.app/docs/#indexing-your-site
+      - name: Index with Pagefind
+        run: |
+          npx --yes pagefind --site public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public

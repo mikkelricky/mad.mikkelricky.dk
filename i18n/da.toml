@@ -6,3 +6,5 @@
 "No results found for {{ .query }}." = "Ingen resultater fundet for {{ .query }}."
 "Results for {{ .query }}." = "Resultater for {{ .query }}."
 "Type %shortcut% to search" = "Tryk %shortcut% for at søge"
+"or" = "eller"
+"and" = "og"
