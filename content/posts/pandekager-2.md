@@ -3,7 +3,17 @@ title: 'Pandekager'
 date: '2025-01-10'
 categories: ['Opskrift']
 tags: []
+# https://gohugo.io/content-management/front-matter/#parameters
+params:
+  index:
+    exclude: true
+
+# https://gohugo.io/content-management/build-options/
+build:
+  list: never
 ---
+
+Se [pandekager]({{< relref "pandekager" >}}).
 
 * 250 g mel
 * 5 spsk. sukker

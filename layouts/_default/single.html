@@ -5,11 +5,16 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
+  {{ $page_find_attributes := slice }}
+  {{ if not .Params.index.exclude }}
+    {{ $page_find_attributes = $page_find_attributes | append "data-pagefind-body" }}
+  {{ end }}
+  {{ $page_find_attributes = delimit $page_find_attributes " " }}>
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
       {{- partialCached "social/share.html" . . -}}
       <!-- https://pagefind.app/docs/indexing/ -->
-      <h1 class="f1 athelas mt3 mb1" data-pagefind-body>
+      <h1 class="f1 athelas mt3 mb1" {{ $page_find_attributes | safeHTMLAttr }}>
         {{- .Title -}}
       </h1>
       {{ with .Params.author | default .Site.Params.author }}
@@ -43,7 +48,7 @@
       {{ end }}
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
-        <div data-pagefind-body>
+        <div {{ $page_find_attributes | safeHTMLAttr }}>
             {{- .Content -}}
         </div>
 
