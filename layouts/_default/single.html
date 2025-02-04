@@ -9,7 +9,7 @@
   {{ if not .Params.index.exclude }}
     {{ $page_find_attributes = $page_find_attributes | append "data-pagefind-body" }}
   {{ end }}
-  {{ $page_find_attributes = delimit $page_find_attributes " " }}>
+  {{ $page_find_attributes = delimit $page_find_attributes " " }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
       {{- partialCached "social/share.html" . . -}}
