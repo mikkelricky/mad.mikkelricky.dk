@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+* [PR-6](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/6)
+  Saltmandler
 * [PR-5](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/5)
   Removed stray >
 * [PR-4](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/4)

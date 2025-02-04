@@ -1,15 +1,24 @@
 ---
 title: 'Saltmandler'
-date: '2023-08-26'
-categories: ['Opskrift']
-tags: []
+date: '2014-01-06'
+categories: ['Snack']
+tags: ['mandler', 'salt']
+# https://gohugo.io/content-management/front-matter/#parameters
+params:
+  index:
+    exclude: true
+
+# https://gohugo.io/content-management/build-options/
+build:
+  list: never
 ---
 
-* 100 g vand
-* 30 g salt
-* 100 g mandler
+* 2 dl vand
+* 2 spsk. salt
+* 200 g mandler
 
-* Bring vandet i kog og rør saltet ud i det
-* Put mandlerne i og lad dem trække i 20 minutter
-* Hæld vandet fra mandlerne og bred dem ud på en bageplade med bagepapir
-* Bag dem ved 150 °C varmluft i 20 minutter
+1. Hæld vand og salt på en pande og bring det i kog.
+2. Put mandlerne i.
+3. Rør rundt indtil alt vandet er fordampet.
+4. Rist i ovn ved 150 ℃ i ca. 20 min.
+5. Spis.
