@@ -11,12 +11,12 @@ tags: ['bacon', 'kylling', 'vin']
 * 250 g skalotteløg
 * 500 g kyllingefilet
 * 2 spsk. hvedemel
-* ½ l rødvin (f.eks. en Cabernet Sauvignon)
+* ½ l rødvin (f.eks. en Cabernet Sauvignon)
 * 2 spsk. flydende hønsebouillon (eller 1 terning)
 * 4 fed hvidløg, finthakkede
-* ½ dl friske timianblade (eller 1 stor tsk. tørrede)
+* ½ dl friske timianblade (eller 1 stor tsk. tørrede)
 * 2 laurbærblade
-* ½ tsk. groft salt
+* ½ tsk. groft salt
 * Friskkværnet peber efter behag
 * 1 håndfuld grofthakket bredbladet persille
 

@@ -31,7 +31,7 @@ Form lagkagebunde og bag ved 200 °C
 
 Tag smørret ud i god tid og lad det stå ved stuetemperatur så det bliver blødt.
 
-Kom sukker og vand i en gryde og kog indtil sukkeret er smeltet. Tag det af varmen og lad det køle af til
+Kom sukker og vand i en gryde og kog indtil sukkeret er smeltet. Tag det af varmen og lad det køle af til
 stuetemperatur.
 
 Pisk smør og æggeblomme sammen i en skål.

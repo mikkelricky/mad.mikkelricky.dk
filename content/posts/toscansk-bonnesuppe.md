@@ -13,7 +13,7 @@ tags: ['bønner', 'fløde', 'suppe']
 * 1 l kyllingesuppe
 * 4 fed hvidløg, halverede
 * 1 dl fløde
-* 1/2 tsk. peber, friskkværnet
+* 1/2 tsk. peber, friskkværnet
 * 6 skiver ciabattabrød
 
 1. Put smør, olie og løg i en gryde og steg indtil løgene er bløde og klare (ca. 5 min.).
