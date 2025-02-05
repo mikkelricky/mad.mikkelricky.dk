@@ -19,7 +19,7 @@ tags: ['brød']
    en ske.
 3. Lad dejen hæve i 1 time.
 4. Hæld dejen på en bageplade og lad den hæve yderligere 1/2 time.
-5. Tænd ovnen på 200 grader.
+5. Tænd ovnen på 200 °C.
 6. Drys evt. brødet med salt, timian, basilikum eller solsikkekerner.
 7. Bag brødet i 30–35 min.
 8. Spis.
