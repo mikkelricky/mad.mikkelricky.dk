@@ -33,4 +33,4 @@ Steges videre i ca. 2–3 min og så derefter evt. 5 min under låg.
 
 Skæres ud i mundrette stykker og toppes af med japansk mayonnaise, okonomiyakisauce og katsuobushiflager.
 
-[^1]: Fås hos enhver velassorteret asiatiske købmand
+[^1]: Fås hos enhver velassorteret asiatisk købmand
