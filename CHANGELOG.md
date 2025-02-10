@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+* [PR-8](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/8)
+  Added okonomiyaki
 * [PR-7](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/7)
   Cleaned up
 * [PR-6](https://github.com/mikkelricky/mad.mikkelricky.dk/pull/6)
