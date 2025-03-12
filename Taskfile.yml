@@ -5,9 +5,10 @@ tasks:
   default:
     cmds:
       - task --list
-  silent: true
+    silent: true
 
   serve:
+    desc: "Build and serve site"
     cmds:
       - hugo
       # Index with Pagefind
