@@ -20,17 +20,17 @@ tags: []
 * Okonomiyakisauce[^1]
 * [katsuobushi](https://da.wikipedia.org/wiki/Katsuobushi)[^1]
 
-Kålen skæres i fine strimler.
+Snit kål fint.
 
-Æg piskes let i en skål og blandes med til det har en tyk konsistens.
+Pisk æg sammen i en skål og bland med mel til det har en tyk konsistens.
 
-Spidskål, dashipulver bagepulver og salt tilføjes, og blandingen røres sammen og sættes til side.
+Tilsæt spidskål, dashipulver, bagepulver og salt og rør det hele godt sammen.
 
 Varm en pande op med smagsneutral olie. Fyld halvdelen af blandingen på panden så det bliver en tyk pandekageform. Når
 blandingen har fået stegeskorpe lægges bacon i strimler ovenpå hvorefter pandekagen vendes.
 
-Steges videre i ca. 2–3 min og så derefter evt. 5 min under låg.
+Steg videre indtil bacon er sprødt (ca. 2–3 min).
 
-Skæres ud i mundrette stykker og toppes med japansk mayonnaise, okonomiyakisauce og katsuobushiflager.
+Skær ud i mundrette stykker og top med japansk mayonnaise, okonomiyakisauce og katsuobushiflager.
 
 [^1]: Fås hos enhver velassorteret asiatisk købmand
