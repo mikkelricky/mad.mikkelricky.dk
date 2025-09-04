@@ -13,20 +13,9 @@ source: 'https://meyers.dk/opskrifter/nicos-kartoffelpizza-med-ramslogspesto/p/7
 * 25 g fint salt
 * olie til pensling
 
-Æltning med maskine
-
 1. Hæld vandet i røreskålen og opløs gæren i vandet.
 2. Bland de to typer mel i vandet og ælt på laveste trin i ca. 4 minutter.
 3. Tilsæt salt og ælt i yderligere 1 minut.
-
-Æltning med hånden
-
-1. Find en stor skål frem. Hæld vandet i skålen og opløs gæren i vandet.
-2. Bland de to typer mel i vandet og begynd at ælte dejen med hænderne.
-3. Hæld dejen ud på bordet så snart den har samlet sig lidt i skålen og fortsæt med at ælte den godt og grundet med
-   hænderne i 5-8 minutter.
-4. Spred dejen lidt ud på bordet så du får en større overflade. Fordel saltet henover dejen og ælt igen 5–8 minutter til
-   du ikke kan se saltet og alle saltlommer er væk.
 
 Hvile- og hævetid
 
