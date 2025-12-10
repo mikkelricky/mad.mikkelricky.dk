@@ -19,7 +19,7 @@ theme = 'ananke'
 # https://gohugo.io/content-management/urls/#permalinks
 [permalinks]
   [permalinks.page]
-    posts = '/:filename/'
+    posts = '/:contentbasename/'
     categories = '/:slug/'
     tags = '/:slug/'
 
