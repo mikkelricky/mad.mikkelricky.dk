@@ -5,11 +5,11 @@ categories: ['Mad', 'Opskrift']
 tags: ['æg', 'kage']
 ---
 
-* 3 æg
-* 3/4 dl letmælk
-* 1/2 tsk. salt
-* 1 tsk. kartoffelmel
-* 10 g baconfedt
+* 3 æg
+* 3/4 dl letmælk
+* 1/2 tsk. salt
+* 1 tsk. kartoffelmel
+* 10 g baconfedt
 
 1. Fedtstof smeltes på panden ved jævn varme.
 2. Æggemassen røres sammen og hældes på panden.

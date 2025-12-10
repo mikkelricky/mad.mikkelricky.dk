@@ -65,7 +65,11 @@ tasks:
 
   coding-standards:check:spelling:
     cmds:
-      - "! grep --recursive --line-number --extended-regexp '(knsp|spsk|tsk)[^.]' content && true"
+      - "! grep --recursive --line-number --extended-regexp --color '(knsp|spsk|tsk)[^.]' content && true"
+      - "! grep --recursive --line-number --extended-regexp --color '°[^C]' content && true"
+      - "! grep --recursive --line-number --extended-regexp --color '[^ ](°|(knsp|spsk|tsk)\\.)' content && true"
+      - "! grep --recursive --line-number --extended-regexp --color '[^ ](\\bg\\b)' content && true"
+      - "! grep --recursive --line-number --extended-regexp --color '[ ]g\\.' content && true"
 
   docker-pull:
     cmds:

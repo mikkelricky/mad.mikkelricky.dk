@@ -5,8 +5,8 @@ categories: ['Opskrift', 'Snack']
 tags: ['mandler', 'soya']
 ---
 
-* 200 g mandler
-* 4 spsk. soya
+* 200 g mandler
+* 4 spsk. soya
 
 1. Hæld mandlerne på en varm pande.
 2. Ryst mandlerne jævnligt indtil de har taget farve og begynder at poppe/knitre.

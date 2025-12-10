@@ -5,9 +5,9 @@ categories: ['Opskrift']
 tags: []
 ---
 
-* 150 g rugbrød
-* 2 spsk. sukker
-* 30 g smør
+* 150 g rugbrød
+* 2 spsk. sukker
+* 30 g smør
 
 Riv rugbrødet på et rivejern eller smuldr det med fingrene. Rist det på en pande sammen med sukkeret, indtil dette er smeltet.
 
