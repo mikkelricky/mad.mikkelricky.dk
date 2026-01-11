@@ -10,6 +10,9 @@ tasks:
   serve:
     desc: "Build and serve site"
     cmds:
+      # https://github.com/davidsneighbour/gohugo-theme-ananke-template-mod
+      - hugo mod get -u ./...
+      - hugo mod tidy
       - hugo
       # Index with Pagefind
       - npx --yes pagefind --site public
