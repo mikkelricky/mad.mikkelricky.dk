@@ -10,3 +10,5 @@ tags: ['rugbrød', 'surdej']
 * 50 g vand
 
 Rør det hele sammen i en lille skål. Dæk til og lad stå på køkkenbordet i 14–16 timer.
+
+Og så er du klar til at bage [surdejsrugbrød]({{< relref "surdejsrugbrod" >}}).

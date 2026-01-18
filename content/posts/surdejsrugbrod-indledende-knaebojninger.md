@@ -19,3 +19,5 @@ dage.
 
 Rør rugmel, vand og surdejen fra ovenover sammen. Resultatet skal have en temperatur på 30–35 °C. Dæk surdejen til og
 lad den stå lunt i 16–20 timer.
+
+Gå til [Surdejsrugbrød – Surdej]({{< relref "surdejsrugbrod-trin-1" >}}).

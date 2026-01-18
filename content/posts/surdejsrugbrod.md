@@ -16,7 +16,8 @@ tags: ['rugbrød', 'surdej']
 * 250 g hvedemel
 * 300 g rugmel
 
-Opskriften passer til en rugbrødsform på ca. 10 cm × 10 cm × 30 cm.
+Opskriften passer til en rugbrødsform på ca. 10 cm × 10 cm × 30 cm (fx [Rugbrødsform,
+jern](https://www.kunstogkokkentoj.dk/product/rugbroedsform-jern?variant=056-002-30)).
 
 Put surdej i en skål og hæld vand på. Lad det stå lidt eller rør evt. surdejen ud i vandet.
 
